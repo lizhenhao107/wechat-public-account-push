@@ -29,7 +29,7 @@ const USER_CONFIG = {
     CIBA: true,
     
     // 每日一言, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    oneTalk: false,
+    oneTalk: true,
     
     // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     earthyLoveWords: false,
@@ -92,7 +92,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'omNyR6qG891V0G-Yp7kzA3wOmhR4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'w_384lKaGKrnd9jwl6rPEyDdCEKdyDfsyBAteCUiX00',
+      useTemplateId: 'w5RTy7qsB-Cmg3yJ_2B7mmDtvRrAQsN4kqpXm8F4UWI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-07',
       festivals: [
@@ -104,9 +104,9 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '崽崽', year: '1998', date: '10-03',
         },
-        {
-          type: '节日', name: '相识纪念日', year: '2021', date: '04-20',
-        },
+        // {
+        //   type: '节日', name: '相识纪念日', year: '2021', date: '04-20',
+        // },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
@@ -122,7 +122,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'omNyR6mB3evvao16vLAF5sPPQd4o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'w_384lKaGKrnd9jwl6rPEyDdCEKdyDfsyBAteCUiX00',
+      useTemplateId: 'w5RTy7qsB-Cmg3yJ_2B7mmDtvRrAQsN4kqpXm8F4UWI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-07',
       festivals: [
@@ -134,9 +134,9 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '崽崽', year: '1998', date: '10-03',
         },
-        {
-          type: '节日', name: '相识纪念日', year: '2021', date: '04-20',
-        },
+        // {
+        //   type: '节日', name: '相识纪念日', year: '2021', date: '04-20',
+        // },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
