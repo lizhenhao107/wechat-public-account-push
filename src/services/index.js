@@ -879,7 +879,7 @@ export const getCallbackTemplateParams = (messageReply) => {
 }
 
 // 组装openUrl
-const assembleOpenUrl = () => ''
+const assembleOpenUrl = () => 'https://yufu.pub/'
 
 /**
  * 使用pushDeer
