@@ -92,9 +92,10 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'omNyR6qG891V0G-Yp7kzA3wOmhR4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'w5RTy7qsB-Cmg3yJ_2B7mmDtvRrAQsN4kqpXm8F4UWI',
+      useTemplateId: 'S1GsnDFKYlSxXshTNq6bA6KYmtMsl3xrPVeRyyF6fFE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-07',
+      openUrl: 'https://yufu.pub/',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -122,9 +123,10 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'omNyR6mB3evvao16vLAF5sPPQd4o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'w5RTy7qsB-Cmg3yJ_2B7mmDtvRrAQsN4kqpXm8F4UWI',
+      useTemplateId: 'S1GsnDFKYlSxXshTNq6bA6KYmtMsl3xrPVeRyyF6fFE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-07',
+      openUrl: 'https://yufu.pub/',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
