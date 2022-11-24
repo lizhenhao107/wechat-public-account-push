@@ -86,44 +86,44 @@ const USER_CONFIG = {
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
   LITERARY_PREFERENCE: '',
   USERS: [
-    // {
-    //   // 想要发送的人的名字
-    //   name: '差三岁_',
-    //   // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-    //   id: 'omNyR6qG891V0G-Yp7kzA3wOmhR4',
-    //   // 使用微信测试号：你想对他发送的模板消息的模板ID
-    //   useTemplateId: 'vITe1EbrjD6frZJT1yO89L5fzEdbE5iyn4fOw_xz_eQ',
-    //   // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-    //   horoscopeDate: '03-07',
-    //   openUrl: 'https://yufu.pub/',
-    //   festivals: [
-    //     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-    //     {
-    //       type: '*生日', name: '宝宝', year: '2001', date: '03-07',
-    //     },
-    //     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-    //     {
-    //       type: '*生日', name: '崽崽', year: '1998', date: '10-03',
-    //     },
-    //     // {
-    //     //   type: '节日', name: '相识纪念日', year: '2021', date: '04-20',
-    //     // },
-    //   ],
-    //   // 我们在一起已经有xxxx天了的配置
-    //   customizedDateList: [
-    //     // 在一起的日子
-    //     { keyword: 'love_day', date: '2021-04-20' },
-    //     // 结婚纪念日
-    //     // { keyword: 'marry_day', date: '2022-09-09' },
-    //   ],
-    // },
+    {
+      // 想要发送的人的名字
+      name: '差三岁_',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'omNyR6qG891V0G-Yp7kzA3wOmhR4',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'Tm6HcER69nN5G9X5wop9fXfB1tcU1cpR3Z-xTN5RXI8',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '03-07',
+      openUrl: 'https://yufu.pub/',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '宝宝', year: '2001', date: '03-07',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '*生日', name: '崽崽', year: '1998', date: '10-03',
+        },
+        // {
+        //   type: '节日', name: '相识纪念日', year: '2021', date: '04-20',
+        // },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2021-04-20' },
+        // 结婚纪念日
+        // { keyword: 'marry_day', date: '2022-09-09' },
+      ],
+    },
     {
       // 想要发送的人的名字
       name: '隔三秋_',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'omNyR6mB3evvao16vLAF5sPPQd4o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '3YoYUuLib56gZV_H96-yK_o5Q-zzzNCemfQlFZfxuoI',
+      useTemplateId: 'Tm6HcER69nN5G9X5wop9fXfB1tcU1cpR3Z-xTN5RXI8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-07',
       openUrl: 'https://yufu.pub/',
